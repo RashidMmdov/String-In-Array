@@ -1,0 +1,14 @@
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.exe
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.deps.json
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.runtimeconfig.json
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.runtimeconfig.dev.json
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.dll
+C:\Users\resid\source\repos\String in Array\String in Array\bin\Debug\netcoreapp3.1\String in Array.pdb
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.AssemblyInfo.cs
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.dll
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.pdb
+C:\Users\resid\source\repos\String in Array\String in Array\obj\Debug\netcoreapp3.1\String in Array.genruntimeconfig.cache
